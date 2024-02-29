@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Mr+Dafoe&family=Roboto&display=swap");
+* {
+  margin: 0;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1,
+h2 {
+  font-family: "Mr Dafoe", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
